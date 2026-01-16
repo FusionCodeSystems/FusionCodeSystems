@@ -1,4 +1,4 @@
-# 👋 Fusion Code Systems | FullStack Development Team
+# 👋 Fusion Code Systems
 
 ![Banner](https://img.shields.io/badge/Fusion%20Code%20Systems-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
